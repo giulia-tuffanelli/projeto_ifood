@@ -1,12 +1,12 @@
 # **Projeto Ifood - Análise exploratória de dados** :bulb:
 
 ## Índice
-- [1. Contexto](https://github.com/giulia-tuffanelli/projeto_ifood/edit/main/README.md#1-contexto)
-- [2. Ferramentas](https://github.com/giulia-tuffanelli/projeto_ifood/edit/main/README.md#2-ferramentas)
-- [3. Técnicas](https://github.com/giulia-tuffanelli/projeto_ifood/edit/main/README.md#3-t%C3%A9cnicas)
-- [4. Produtos da análise](https://github.com/giulia-tuffanelli/projeto_ifood/edit/main/README.md#4-produtos-da-an%C3%A1lise)
-- [5. Principais insights](https://github.com/giulia-tuffanelli/projeto_ifood/edit/main/README.md#5-principais-insights-)
-- [6. Conclusão](https://github.com/giulia-tuffanelli/projeto_ifood/edit/main/README.md#6-conclus%C3%A3o)
+- [1. Contexto](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#1-contexto)
+- [2. Ferramentas](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#2-ferramentas)
+- [3. Técnicas](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#3-t%C3%A9cnicas)
+- [4. Produtos da análise](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#4-produtos-da-an%C3%A1lise)
+- [5. Principais insights](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#5-principais-insights-)
+- [6. Conclusão](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#6-conclus%C3%A3o)
 
 ## 1. Contexto
 
