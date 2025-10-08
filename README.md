@@ -1,11 +1,15 @@
 # **Projeto Ifood - Análise do Perfil de Clientes** :bulb:
 
+## Resumo
+
+Análise do perfil de clientes cadastrados em plataforma de compra online de alimentos e bebidas com foco em otimizar estratégias de marketing. 
+
 ## Índice
 - [1. Contexto](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#1-contexto)
 - [2. Ferramentas](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#2-ferramentas)
 - [3. Técnicas](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#3-t%C3%A9cnicas)
 - [4. Produtos da análise](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#4-produtos-da-an%C3%A1lise)
-- [5. Principais insights](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#5-principais-insights-)
+- [5. Principais insights de dados](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#5-principais-insights-)
 - [6. Conclusão](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#6-conclus%C3%A3o)
 
 ## 1. Contexto
@@ -49,7 +53,7 @@ Nesta etapa fiz uma análise multivariada para entender o perfil dos clientes e 
 
 [Notebook detalhado das análises em python.](https://github.com/giulia-tuffanelli/projeto_ifood/blob/main/Projeto_Ifood.ipynb)
 
-## 5. Principais insights 📈
+## 5. Principais insights de dados 📈
 
 <ins>Importância da verificação de dados nulos:</ins> A presença de campos em branco em uma base de dados pode distorcer medidas estatísticas e levar a resultados enviesados. Na análise dessa base entendi que os campos estavam nulos porque significam que a pessoa não tem aquela determinada característica, já que essas colunas só tem nulos ou um outro determinado valor. Para melhorar a análise posterior, criei colunas booleanas no dataframe para que todos os atributos de cliente tenham o valor 0 em caso de nulo e 1 caso não.
 
