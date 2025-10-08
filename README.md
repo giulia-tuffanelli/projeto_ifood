@@ -24,11 +24,10 @@ O conjunto de dados é composto por clientes da empresa "Ifood" com dados sobre:
 
 ## 2. Ferramentas
 
-Bibliotecas Python para Análise Exploratória de Dados (EDA)
+Google colab e bibliotecas Python para Análise Exploratória de Dados (EDA)
 - Pandas
 - Seaborn
 - Matplotlib
-
 
 ## 3. Técnicas
 
@@ -48,7 +47,7 @@ Nesta etapa fiz uma análise multivariada para entender o perfil dos clientes e 
 
 ## 4. Produtos da análise
 
-[Notebook detalhado das análises em python.]()
+[Notebook detalhado das análises em python.](https://github.com/giulia-tuffanelli/projeto_ifood/blob/main/Projeto_Ifood.ipynb)
 
 ## 5. Principais insights 📈
 
