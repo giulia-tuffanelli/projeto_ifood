@@ -1,4 +1,4 @@
-# **Projeto Ifood - Análise exploratória de dados** :bulb:
+# **Projeto Ifood - Análise do Perfil de Clientes** :bulb:
 
 ## Índice
 - [1. Contexto](https://github.com/giulia-tuffanelli/projeto_ifood/tree/main?tab=readme-ov-file#1-contexto)
