@@ -52,6 +52,8 @@ Nesta etapa fiz uma análise multivariada para entender o perfil dos clientes e 
 ## 4. Produtos da análise
 
 [Notebook detalhado das análises em python no GitHub.](https://github.com/giulia-tuffanelli/projeto_ifood/blob/main/Projeto_Ifood.ipynb)
+
+
 [Notebook no Google Colab](https://colab.research.google.com/drive/1jJb_pt3vpE7vuc8MQjQ9nZOaDirsQ-0v?usp=sharing)
 
 ## 5. Principais insights de dados 📈
